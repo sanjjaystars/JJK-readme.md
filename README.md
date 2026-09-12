@@ -15,7 +15,7 @@
         self.role = "Web & App Developer | Cybersecurity Enthusiast"
         self.location = "Pondicherry, India"
         self.education = "CSBS Undergrad"
-        self.os = [" Arch ", " Kali "," Fedora "]
+        self.os = [" Arch ", " Kali "," Fedora ","MACOS"]
 
     def get_tech_stack(self):
         return {
