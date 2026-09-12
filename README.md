@@ -1,6 +1,6 @@
 <div align="center">
   <h1>SANJJAY</h1>
-  <h3>Founder of Dark-Syntax</h3>
+  <h3>Founder of STARAVIA & SAHAYAK</h3>
 </div>
 
 ---
