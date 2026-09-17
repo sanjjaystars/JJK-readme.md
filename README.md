@@ -23,12 +23,28 @@
 
 ### About me
 
-- 🧩 Practising data structures and algorithms on **[LeetCode](https://leetcode.com/u/SANJJAY73/)**.
-- 🔭 Building projects and improving one commit at a time.
-- 🌱 Always learning, experimenting, and growing.
-- 💬 Explore my repositories or connect through GitHub.
+```python
+   def __init__(self):
+        self.name = "Sanjjay Aroumougam"
+        self.role = "Web & App Developer | Cybersecurity Enthusiast"
+        self.location = "Pondicherry, India"
+        self.education = "CSBS Undergrad"
+        self.os = [" Arch ", " Kali "," Fedora ","MACOS"]
 
-<br clear="right" />
+    def get_tech_stack(self):
+        return {
+            "languages": ["Python", "HTML", "JavaScript", "Dart"],
+            "frontend": ["React", "Tailwind CSS", "Flutter"],
+            "backend": ["FastAPI", "Firebase", "PostgreSQL"],
+            "tools": ["Git", "Docker", "Burp Suite", "Scapy"]
+        }
+
+    def say_hi(self):
+        print(f"Thanks for visiting {self.name}'s profile!")
+
+me = Sanjjay()
+me.say_hi() )
+```
 
 <hr />
 
