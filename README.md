@@ -45,8 +45,24 @@
 me = Sanjjay()
 me.say_hi() )
 ```
+<hr />
+### Languages · frameworks · tools
+
+<div align="center">
+  <!-- Update this row to match the technologies you use. -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,java,python,cpp,html,css,js&theme=dark" alt="Git, GitHub, VS Code, Java, Python, C++, HTML, CSS, and JavaScript" />
+</div>
+
+<br />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sanjjaystars/sanjjaystars/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+</div>
 
 <hr />
+
+
+
+
 
 <div align="center">
   <img src="./assets/anime-pixel-art.png" width="430" alt="Pixel-art anime decoration" />
@@ -75,21 +91,21 @@ me.say_hi() )
   />
 </p>
 
-### Languages · frameworks · tools
+### LeetCode
 
 <div align="center">
-  <!-- Update this row to match the technologies you use. -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,java,python,cpp,html,css,js&theme=dark" alt="Git, GitHub, VS Code, Java, Python, C++, HTML, CSS, and JavaScript" />
+  <a href="https://leetcode.com/u/SANJJAY73/">
+    <img src="https://leetcard.jacoblin.cool/SANJJAY73?theme=dark&font=Nunito&ext=heatmap" alt="Sanjjay’s LeetCode statistics" />
+  </a>
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sanjjaystars/sanjjaystars/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
-</div>
 
 <hr />
 
 <div align="center">
   <sub>Made with ☕ and consistency by <a href="https://github.com/sanjjaystars">Sanjjay</a></sub>
 </div>
+
+<hr />
