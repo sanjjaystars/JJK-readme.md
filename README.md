@@ -67,20 +67,13 @@ me.say_hi() )
 
 ### Contribution graph
 
-<h2 align="center">Sanjjay's Contribution Graph</h2>
-
 <p align="center">
-  <img src="./contribution-graph.svg" width="950">
+  <img
+    src="./assets/contribution-graph.svg"
+    width="950"
+    alt="Sanjjay's Contribution Graph"
+  />
 </p>
-### LeetCode
-
-<div align="center">
-  <a href="https://leetcode.com/u/SANJJAY73/">
-    <img src="https://leetcard.jacoblin.cool/SANJJAY73?theme=dark&font=Nunito&ext=heatmap" alt="Sanjjay’s LeetCode statistics" />
-  </a>
-</div>
-
-<br />
 
 ### Languages · frameworks · tools
 
