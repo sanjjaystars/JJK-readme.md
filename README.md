@@ -67,12 +67,11 @@ me.say_hi() )
 
 ### Contribution graph
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/238636/sanjjaystars" width="100%" alt="Sanjjay’s GitHub contribution graph" />
-</div>
+<h2 align="center">Sanjjay's Contribution Graph</h2>
 
-<br />
-
+<p align="center">
+  <img src="./contribution-graph.svg" width="950">
+</p>
 ### LeetCode
 
 <div align="center">
