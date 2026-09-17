@@ -59,7 +59,7 @@ me.say_hi() )
 ### GitHub stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanjjaystars&show_icons=true&include_all_commits=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Sanjjay’s GitHub statistics" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjjaystars&theme=github_dark" alt="Sanjjay’s GitHub statistics" />
   <img width="49%" src="https://streak-stats.demolab.com?user=sanjjaystars&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" alt="Sanjjay’s contribution streak" />
 </div>
 
